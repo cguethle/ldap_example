@@ -1,0 +1,2 @@
+python-ldap==2.4.25
+wheel==0.24.0
