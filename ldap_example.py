@@ -40,7 +40,6 @@ DN_READONLY_ADMIN = 'cn=read-only-admin,dc=example,dc=com'
 DN_MATHEMATICIANS = 'ou=mathematicians,dc=example,dc=com'
 DN_SCIENTISTS = 'ou=scientists,dc=example,dc=com'
 
-DN_TESLA = 'uid=tesla,{parent_dn}'.format(parent_dn=DN_SCIENTISTS)
 DN_EINSTEIN = 'uid=einstein,dc=example,dc=com'
 
 try:
